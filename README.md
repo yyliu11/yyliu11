@@ -1,4 +1,4 @@
-## Hi, I'm Emily, a full stack software engineer.
+## Hi, I'm Emily, a Full Stack Software Engineer.
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yinyinliu/)](https://www.linkedin.com/in/yinyinliu/)
 
